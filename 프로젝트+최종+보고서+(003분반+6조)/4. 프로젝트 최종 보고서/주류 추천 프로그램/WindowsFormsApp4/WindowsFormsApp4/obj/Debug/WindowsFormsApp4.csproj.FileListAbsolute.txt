@@ -1,0 +1,344 @@
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\loobu\Desktop\3학년 1학기\소공\소공 팀플\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\상수\Desktop\tr\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\이미지 BLOB 넣기\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\왜 내가 다하고 있지\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\상수\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\CITY201603\Desktop\뷁\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\2744c\Desktop\프로젝트 최종 보고서 (003분반 6조)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Buffers.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Memory.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Text.Json.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineInformation.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ctgSearchUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LoginUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MainUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CombineUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.MyAccountUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewListUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SearchUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.InformationUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.LiquorReviewUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ReviewSearchUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CreateReviewUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.DisplayUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.SignUPUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.TinformationUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdateReviewUI.resources
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\CITY201603\Desktop\프로젝트 최종 보고서 (003분반 6조) (2)\4. 프로젝트 최종 보고서\주류 추천 프로그램\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
